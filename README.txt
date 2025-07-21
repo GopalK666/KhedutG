@@ -14,6 +14,3 @@ To Run:
 2. Gradle
 3. Firebase
 4. Run on Emulator or Physical Device
-
-Submitted To: <DEPARTMENT OF COMPUTER SCIENCE AND APPLICATIONS SCHOOL OF ENGINEERING RAI UNIVERSITY>
-Date: <27-05-2025>
