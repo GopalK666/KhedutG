@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258711150092",
+    "project_id": "khedutg-8686d",
+    "storage_bucket": "khedutg-8686d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258711150092:android:ac593943a1b682893a9829",
+        "android_client_info": {
+          "package_name": "com.example.khedutg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAcSCDwR1t19RZMTTBvaVvsixfn66bn5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

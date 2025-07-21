@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yellow">#ffbe0b</color>
+    <color name="green">#90CCA0</color>
+    <color name="fullgreen">#107D1D</color>
+    <color name="thadiyo" >#523A0E</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="graylishblue">#8d99ae</color>
+    <color name="blue">#0000FF</color>
+    <color name="lightgreen">#C8E5B5</color>
+    <color name="orange">#FF1200</color>
+    <color name="shimmergray">#E0E0E0</color>
+    <color name="greenbox">#55A540</color>
+
+</resources>
