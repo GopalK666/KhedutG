@@ -117,7 +117,7 @@
                 //payment popopup khule
                 private fun startRazorpayPayment() {
                     val checkout = Checkout()
-                    checkout.setKeyID("rzp_test_jryXeyFeAH6rWp") //Key RazorPay se
+                    checkout.setKeyID("xxxxxxxxxx") //Key RazorPay se
 
                     try {
                         val options = JSONObject()
