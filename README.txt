@@ -1,6 +1,6 @@
 Project Title: KhedutG – Farmer Shopping App
 Developed By: <GOPAL KAMALIYA>
-MCA – Semester 2
+
 
 Modules:
 - Admin Panel (Manage Categories, Products, Orders, Notifications)
